@@ -2,6 +2,8 @@
 
 This repository contains a Streamlit-based Laptop Price Prediction App. The app allows users to predict the price of a used laptop based on various input features such as the brand, model, year of purchase, RAM, weight, touchscreen feature, IPS display, screen size, screen resolution, CPU brand, HDD capacity, SSD capacity, GPU brand, and operating system.
 
+[View Laptop Price Prediction App built using Streamlit](https://laptoppricepredictor-byocjkyctngsve5znjp5nt.streamlit.app/)
+
 ## 🛠️ Features
 - **Predict the price of a used laptop** based on:
   - Laptop brand (company)
